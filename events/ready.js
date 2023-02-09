@@ -7,7 +7,7 @@ var prefix = ayarlar.prefix;
 
 module.exports = client => {
 var oyun = [
-        "ash bot altyapı",
+        "LOST GAMİNG",
         "",
         ""  
     ];
